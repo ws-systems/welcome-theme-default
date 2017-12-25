@@ -1,0 +1,9 @@
+{
+  "name": "Welcome Default Theme",
+  "author": "WhiteStar Systems",
+  "version": "1.0.0",
+  "options": {
+    "acuity": true,
+    "quick_clock": true
+  }
+}
